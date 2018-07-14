@@ -1,0 +1,21 @@
+{
+  "name": "fansir",
+  "version": "1.0.0",
+  "description": "mr fan's project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mr",
+    "fan",
+    "mall"
+  ],
+  "author": "lichaohui",
+  "license": "ISC",
+  "devDependencies": {
+    "bower": "^1.8.4",
+    "browser-sync": "^2.24.5",
+    "gulp": "^3.9.1"
+  }
+}

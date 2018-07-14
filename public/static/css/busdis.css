@@ -1,0 +1,74 @@
+.busdis{
+	background-color: white;
+}
+.busdis-low{
+	margin-bottom: 10px;
+}
+
+.busdis-low img{
+	max-width: 100%;
+}
+
+.address-wrap{
+	background-color: white;
+}
+
+.address{
+	border-right: #d8d8d8 solid 1px; 
+}
+.address:last-of-type{
+	border-right: none;
+}
+
+.address a{
+	color: #5e5e5e;
+	font-size: 16px;
+}
+
+.address.active a{
+	color: #e8001c;
+}
+
+.address-small{
+	margin-top: 10px;
+}
+
+.media .media-body{
+	padding-top: 5px;
+}
+
+.address-detail{
+	padding-right: 15px;
+}
+
+.price{
+	color: #ef3400;
+}
+
+.media{
+	border-bottom: #dadada solid 1px;
+}
+
+.media-mine{
+	position: relative;
+	top: -10px;
+}
+
+.circle{
+	width: 20px;
+	height: 20px;
+	border-radius: 100%;
+	background-color: #f5a623;
+	margin-right: 10px;
+}
+
+#map{
+	height: 400px;
+}
+
+.opera{
+	height: 50px;
+	line-height: 50px;
+	color: white;
+	background: -webkit-gradient(linear, 0 0, right 0, from(#faa661), to(#f71c52));
+}

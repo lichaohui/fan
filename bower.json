@@ -1,0 +1,27 @@
+{
+  "name": "fansir",
+  "description": "mr fan's project",
+  "main": "index.js",
+  "authors": [
+    "lichaohui"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "mr",
+    "fan",
+    "mall"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "bootstrap": "3.3.7",
+    "jquery-bootstrap-newsbox": "^1.0.2"
+  }
+}

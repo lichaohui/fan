@@ -1,0 +1,64 @@
+.input-radius-mine{
+	border-top-left-radius: 36px;
+  border-bottom-left-radius: 36px;
+}
+
+.input-group-mine{
+	border-top-right-radius: 36px;
+  border-bottom-right-radius: 36px;
+	background: -webkit-gradient(linear, 0 0, right 0, from(#faa661), to(#f71c52)); 
+}
+
+.input-grey{
+	background-color: #f3f3f3;
+}
+
+.sub{
+	border: none;
+	background: none;
+	color: white;
+}
+
+.media-list{
+	background-color: white;
+}
+
+.address-wrap{
+	background-color: white;
+}
+
+.address{
+	border-right: #d8d8d8 solid 1px; 
+}
+.address:last-of-type{
+	border-right: none;
+}
+
+.address a{
+	color: #5e5e5e;
+	font-size: 16px;
+}
+
+.address.active a{
+	color: #e8001c;
+}
+
+.address-small{
+	margin-top: 10px;
+}
+
+.media-body{
+	padding-top: 5px;
+}
+
+.address-detail{
+	padding-right: 15px;
+}
+
+.price{
+	color: #ef3400;
+}
+
+.media{
+	border-bottom: #dadada solid 1px;
+}

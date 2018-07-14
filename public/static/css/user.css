@@ -1,0 +1,59 @@
+.address-detail{
+	overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.banner{
+	height: 170px;
+	background: -webkit-gradient(linear, 0 0, 0 bottom, from(#faa661), to(#f71c52)); 
+}
+
+.setting{
+	color: #222;
+	position: absolute;
+	top: 15px;
+	left: 10px;
+}
+
+.avator{
+	margin-top: 40px;
+	display: inline-block;
+	color: white;
+}
+
+.getcode{
+	color: white;
+	border: none;
+	height: 44px;
+}
+
+.input-lg{
+	font-size: 16px;
+}
+
+.wechat{
+	background: url(../image/user/wechat.png) center 20px no-repeat;
+	padding-top: 80px;
+	border-top: #dadada solid 1px;
+}
+
+.submit{
+	background-color: #ff583d;
+	color: white;
+	border-radius: 20px;
+	box-shadow: 0px 5px 5px #bbb;
+	position: absolute;
+	bottom: 30px;
+}
+
+.submit0{
+	background-color: #ff813d;
+	color: white;
+	border-radius: 20px;
+	box-shadow: 0px 5px 5px #bbb;
+}
+
+.submit:hover{
+	color: white;
+}
