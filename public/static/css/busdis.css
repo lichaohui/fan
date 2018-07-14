@@ -72,3 +72,22 @@
 	color: white;
 	background: -webkit-gradient(linear, 0 0, right 0, from(#faa661), to(#f71c52));
 }
+
+.filter-wrapper{
+	line-height: 44px;
+	border-top: #ededed solid 1px;
+	border-bottom: #c9c9c9 solid 1px;
+}
+
+.filter-title,.filter-active{
+	background-color: #f3f3f3;
+}
+
+.filter-con{
+	border-left: #c9c9c9 solid 1px;
+	border-right: #c9c9c9 solid 1px;
+}
+
+.close{
+	line-height: 44px;
+}
