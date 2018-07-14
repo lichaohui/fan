@@ -5,7 +5,7 @@
 
 #### 页面列表
 * area - 区域(包含标签筛选弹出框)
-* build_phone - 微信登录（绑定手机号）
+* bind_phone - 微信登录（绑定手机号）
 * busdis - 商圈
 * destine - 预定
 * financial - 金融服务
